@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, Soy Alex Avila</h1>
 <h3 align="center"> 🌱Un apasionado por el desarrollo web, de Colombia</h3>
 
-📖 Actualmente estoy aprendiendo Javascritp,astro e ingles.
+📖 Actualmente estoy aprendiendo React,astro e ingles.
 
 💻 Todos mis proyectos estan subidos en https://github.com/Alexav1la 
 
